@@ -151,7 +151,7 @@ font-family: 'ChaletComprime';
     align-items: center;
 }
 .maria .funcionarios{
-    width: 50%;
+    width: 100%;
     background-color: rgba(255, 255, 255, .1);
     border: 0.5px solid #000000 ;
     border-radius: 4px;
